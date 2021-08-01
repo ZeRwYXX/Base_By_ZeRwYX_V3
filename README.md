@@ -15,4 +15,4 @@ Base de bot discord
 ~~~~~~~~~~~~ Infos ~~~~~~~~~~~~
 Ne pas vendre la base!
 Ne pas faire croire que la base vien de vous
-Cardez les droits svp
+Gardez les droits svp
