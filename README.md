@@ -7,7 +7,7 @@ Base de bot discord
 - Serveur discord: https://discord.gg/CfWNdpjzft
 - Bot discord: http://bit.do/genbot
 ~~~~~~~~~~~~~ TUTO ~~~~~~~~~~~~~
-1 - Ouvre le dossicer config
+1 - Ouvre le dossier config
 2 - Ouvre bot.js
 3 - Indique les informations comme indiqué
 4 - Install tous les modules
